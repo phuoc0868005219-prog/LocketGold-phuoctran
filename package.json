@@ -1,10 +1,12 @@
 {
-  "name": "locket-bot",
-  "private": true,
-  "dependencies": {
-    "telegraf": "^4.16.3"
-  },
+  "name": "locketgold-bot",
+  "version": "1.0.0",
+  "description": "Locket Gold Telegram Bot",
+  "main": "index.js",
   "scripts": {
     "start": "node index.js"
+  },
+  "dependencies": {
+    "telegraf": "^4.16.3"
   }
 }
